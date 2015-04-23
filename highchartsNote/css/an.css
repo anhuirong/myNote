@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	/*width: 1200px;*/
+	/*margin: 0 auto 30px;*/
+	padding: 20px;
+}
+.hchart{
+	border: 1px solid #cfcfcf;
+	border-radius: 4px;
+	box-shadow: 0 0 4px rgba(0,0,0,.3);
+}
